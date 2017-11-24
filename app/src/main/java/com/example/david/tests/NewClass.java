@@ -5,4 +5,7 @@ package com.example.david.tests;
  */
 
 public class NewClass {
+    public NewClass(String x) {
+
+    }
 }
